@@ -38,4 +38,4 @@ We can even use GANs for our Semantic Segmentaion
 
 07. [Object Detection and Image Segmentation with Deep Learning on Earth Observation Data A Review-Part I Evolution and Recent Trends](https://drive.google.com/file/d/1WhKtqq8z9MfkPTfF7_lebUQBxxMI9npy/view?usp=sharing)
 
-08. [Semantic Segmentation by Improved Generative Adversarial Networks](https://drive.google.com/file/d/13f9I_i_PKsnMHlhdkG4mynOnahyRO9HX/view?usp=sharing) 
+08. [Semantic Segmentation by Improved Generative Adversarial Networks](https://drive.google.com/file/d/13f9I_i_PKsnMHlhdkG4mynOnahyRO9HX/view?usp=sharing)  
