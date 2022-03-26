@@ -15,13 +15,13 @@ We can even use GANs for our Semantic Segmentaion
 ### Hyosun 
 [Summarized_ExcelFile_by_Hyosun](https://onedrive.live.com/edit.aspx?resid=B5DAD65B8DB99510!186042&ithint=file%2cxlsx)
 
-[[2018] Building-A-Nets: Robust Building Extraction From High-Resolution Remote Sensing Images With Adversarial Networks]()
+[[2018] Building-A-Nets: Robust Building Extraction From High-Resolution Remote Sensing Images With Adversarial Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8453267)
 
-[Semantic Segmentation of Medium-Resolution Satellite Imagery using Conditional Generative Adversarial Networks]()
+[Semantic Segmentation of Medium-Resolution Satellite Imagery using Conditional Generative Adversarial Networks](https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_46.pdf)
 
-[What Is Pix2Pix and How To Use It for Semantic Segmentation of Satellite Images?]()
+[What Is Pix2Pix and How To Use It for Semantic Segmentation of Satellite Images?](https://github.com/A2Amir/Pix2Pix-for-Semantic-Segmentation-of-Satellite-Images)
 
-[Semantic Segmentation and Edge Detection—Approach to Road Detection in Very High Resolution Satellite Images]()
+[Semantic Segmentation and Edge Detection—Approach to Road Detection in Very High Resolution Satellite Images](https://www.mdpi.com/2072-4292/14/3/613/pdf)
 
 ### From the team
 01. [A Survey on Deep Learning Techniques for Image and Video Semantic Segmentation]()
