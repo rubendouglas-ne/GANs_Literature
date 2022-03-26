@@ -1,5 +1,7 @@
 # GANs_Literature
 
+[GANs & Classification for peatlands images presentation file](https://1drv.ms/p/s!AhCVuY1b1tq1i6honEjza4uypRyfFQ?e=tMpYg1)
+
 ## 01. Traditional GANs : to generate more datasets of peatlands as we have only small datasets.
 We decided to explore this literature first and then see if we can move onto the modern collaborated GANs literature.
 ### Hyosun
