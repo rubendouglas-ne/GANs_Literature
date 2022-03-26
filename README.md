@@ -24,18 +24,18 @@ We can even use GANs for our Semantic Segmentaion
 [Semantic Segmentation and Edge Detection—Approach to Road Detection in Very High Resolution Satellite Images](https://www.mdpi.com/2072-4292/14/3/613/pdf)
 
 ### From the team
-01. [A Survey on Deep Learning Techniques for Image and Video Semantic Segmentation]()
+01. [A Survey on Deep Learning Techniques for Image and Video Semantic Segmentation](https://drive.google.com/file/d/1ixL98who3sxwKXksHoE7iMtXaqBsb8R5/view?usp=sharing)
 
-02. [Evaluating generative adversarial networks based image level domain transfer for multisource remote sensing image segmentation and object detection]()
+02. [Evaluating generative adversarial networks based image level domain transfer for multisource remote sensing image segmentation and object detection](https://drive.google.com/file/d/1aUFVLdnLS5LYtiAi8dMIpJC2Lasvnw5y/view?usp=sharing)
 
-03. [GANs to improve visual defect segmentation]()
+03. [GANs to improve visual defect segmentation](https://drive.google.com/file/d/170qU_MI9jHYcUFtxm3zUwFrA_YoD-bqt/view?usp=sharing)
 
-04. [Image Segmentation Using Deep Learning A Survey]()
+04. [Image Segmentation Using Deep Learning A Survey](https://drive.google.com/file/d/1PZPd0g8T27BSGoYX7UKV1tcE5bU1rMmY/view?usp=sharing)
 
-05. [Improving_Road_Semantic_Segmentation_Using_Generative_Adversarial_Network]()
+05. [Improving_Road_Semantic_Segmentation_Using_Generative_Adversarial_Network](https://drive.google.com/file/d/1Z2--h_21ocY7lyNWBtQoDAJTDvWohNtn/view?usp=sharing)
 
-06. [Majurski_Cell_Image_Segmentation_Using_Generative_Adversarial_Networks_Transfer_Learning_and_CVPRW_2019_paper]()
+06. [Majurski_Cell_Image_Segmentation_Using_Generative_Adversarial_Networks_Transfer_Learning_and_CVPRW_2019_paper](https://drive.google.com/file/d/1B6mEaBKl3ZbJjtnFtmA-upLJ-lbnh0w-/view?usp=sharing)
 
-07. [Object Detection and Image Segmentation with Deep Learning on Earth Observation Data A Review-Part I Evolution and Recent Trends]()
+07. [Object Detection and Image Segmentation with Deep Learning on Earth Observation Data A Review-Part I Evolution and Recent Trends](https://drive.google.com/file/d/1WhKtqq8z9MfkPTfF7_lebUQBxxMI9npy/view?usp=sharing)
 
-08. [Semantic Segmentation by Improved Generative Adversarial Networks]()
+08. [Semantic Segmentation by Improved Generative Adversarial Networks](https://drive.google.com/file/d/13f9I_i_PKsnMHlhdkG4mynOnahyRO9HX/view?usp=sharing)
