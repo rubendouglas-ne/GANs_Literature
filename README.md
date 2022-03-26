@@ -10,13 +10,13 @@ We decided to explore this literature first and then see if we can move onto the
 ## 02. Modern Collaborated GANs : used for semantic segmentation
 We can even use GANs for our Semantic Segmentaion
 
-Hyosun 
+### Hyosun 
 Summarized_ExcelFile_by_Hyosun
 [2018] Building-A-Nets: Robust Building Extraction From High-Resolution Remote Sensing Images With Adversarial Networks
 Semantic Segmentation of Medium-Resolution Satellite Imagery using Conditional Generative Adversarial Networks
 What Is Pix2Pix and How To Use It for Semantic Segmentation of Satellite Images?
 Semantic Segmentation and Edge Detection—Approach to Road Detection in Very High Resolution Satellite Images
-From the team
+### From the team
 01.A Survey on Deep Learning Techniques for Image and Video Semantic Segmentation
 02.Evaluating generative adversarial networks based image level domain transfer for multisource remote sensing image segmentation and object detection
 03.GANs to improve visual defect segmentation
