@@ -7,7 +7,7 @@ previous code
 
 ### From the team
 01. [Generating synthetic multispectral satellite imagery from sentinel-2](https://drive.google.com/file/d/1qxEz-iGLrYi46fuOGrmEl-sZnMYauwXU/view?usp=sharing)
-02. [Data augmentation using CycleGANs to improve CT segmentation]()
+02. [Data augmentation using CycleGANs to improve CT segmentation](https://drive.google.com/file/d/12rwBdGV1Y2p2fa-S5g8Wij9eNVfr-77Y/view?usp=sharing)
 
 ## 02. Modern Collaborated GANs : used for semantic segmentation
 We can even use GANs for our Semantic Segmentaion
