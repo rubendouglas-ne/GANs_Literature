@@ -16,6 +16,7 @@ Summarized_ExcelFile_by_Hyosun
 Semantic Segmentation of Medium-Resolution Satellite Imagery using Conditional Generative Adversarial Networks
 What Is Pix2Pix and How To Use It for Semantic Segmentation of Satellite Images?
 Semantic Segmentation and Edge Detection—Approach to Road Detection in Very High Resolution Satellite Images
+
 ### From the team
 01.A Survey on Deep Learning Techniques for Image and Video Semantic Segmentation
 02.Evaluating generative adversarial networks based image level domain transfer for multisource remote sensing image segmentation and object detection
